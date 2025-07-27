@@ -1,4 +1,4 @@
-# ML Trading Strategy: Rule-Based vs. Learning-Based Approaches
+# ML Trading Strategy: Rule-Based vs. Learning-Based 
 
 ## 📌 Abstract
 
