@@ -11,15 +11,11 @@ Both strategies are evaluated on performance metrics such as cumulative return, 
 
 ---
 
-## 📈 Technical Indicators Implemented
+## 📈 Technical Indicators
 
-The following technical indicators are used to guide trading decisions in both manual and machine learning strategies:
+The following indicators are used for both rule-based and learning-based strategies:
 
-### 📊 Bollinger Bands Percentage (BBP)
+### Bollinger Bands Percentage (BBP)
+### Momentum
+### Relative Strength Index (RSI)
 
-Bollinger Bands consist of:
-- Simple Moving Average (SMA)
-- Upper Band = SMA + 2 × σ
-- Lower Band = SMA − 2 × σ
-
-**BBP formula:**
